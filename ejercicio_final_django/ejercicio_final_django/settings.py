@@ -14,10 +14,14 @@ import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+MEDIA_ROOT = os.path.join(BASE_DIR, 'usermedia').replace('\\', '/')
+STATIC_ROOT = os.path.join(BASE_DIR, 'static').replace('\\', '/')
 
+# Static files (CSS, JavaScript, Images)
+# https://docs.djangoproject.com/en/2.0/howto/static-files/
 
-# Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
+STATIC_URL = '/static/'
+MEDIA_URL = '/media/'
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '%bfk7l7d!@6=bq%0@e!!y^#hni0vw$*lo+twgzln3x18(x6+$c'
@@ -31,7 +35,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'main.apps.Mainconfig',
+    'main.apps.MainConfig',
     'rest_framework',
     'django.contrib.admin',
     'django.contrib.auth',

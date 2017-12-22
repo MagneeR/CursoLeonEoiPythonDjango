@@ -2,14 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d608f261-b114-4097-adee-061fe6f9b875" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/db.sqlite3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/main/migrations/0001_initial.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/main/migrations/0002_auto_20171221_1327.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/main/migrations/0003_auto_20171221_1401.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/main/migrations/0004_auto_20171221_1402.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/main/serializers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/PythonDjango.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/22d17994-bbd1-4046-ba49-ca254ab6cf4e.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/22d17994-bbd1-4046-ba49-ca254ab6cf4e/storage_v2/_src_/schema/main.uQUzAA.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/ejercicio_final_django/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/ejercicio_final_django/settings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/ejercicio_final_django/urls.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/ejercicio_final_django/wsgi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/main/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/main/admin.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/main/apps.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/main/migrations/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/main/models.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/main/tests.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/main/views.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/manage.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/usermedia/avatars/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/usermedia/avatars/pizza.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ejercicio_final_django/usermedia/avatars/pizza_CNbbhXq.jpg" />
       <change beforePath="$PROJECT_DIR$/Pipfile" afterPath="$PROJECT_DIR$/Pipfile" />
       <change beforePath="$PROJECT_DIR$/Pipfile.lock" afterPath="$PROJECT_DIR$/Pipfile.lock" />
+      <change beforePath="$PROJECT_DIR$/ejercicio_final_django/db.sqlite3" afterPath="$PROJECT_DIR$/ejercicio_final_django/db.sqlite3" />
+      <change beforePath="$PROJECT_DIR$/ejercicio_final_django/main/serializers.py" afterPath="$PROJECT_DIR$/ejercicio_final_django/main/serializers.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,6 +52,17 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
     </expand>
     <select />
   </component>
@@ -40,21 +71,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ejercicio_final_django/main/apps.py">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ejercicio_final_django/main/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ejercicio_final_django/ejercicio_final_django/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1597">
-              <caret line="123" column="18" lean-forward="true" selection-start-line="123" selection-start-column="18" selection-end-line="123" selection-end-column="18" />
+            <state relative-caret-position="-13">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,9 +84,11 @@
       <file leaf-file-name="serializers.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ejercicio_final_django/main/serializers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="51">
+              <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,10 +108,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ejercicio_final_django/main/models.py" />
         <option value="$PROJECT_DIR$/ejercicio_final_django/main/admin.py" />
         <option value="$PROJECT_DIR$/ejercicio_final_django/main/apps.py" />
+        <option value="$PROJECT_DIR$/ejercicio_final_django/main/urls.py" />
         <option value="$PROJECT_DIR$/ejercicio_final_django/ejercicio_final_django/settings.py" />
+        <option value="$PROJECT_DIR$/ejercicio_final_django/main/views.py" />
+        <option value="$PROJECT_DIR$/ejercicio_final_django/ejercicio_final_django/urls.py" />
+        <option value="$PROJECT_DIR$/ejercicio_final_django/main/models.py" />
         <option value="$PROJECT_DIR$/ejercicio_final_django/main/serializers.py" />
       </list>
     </option>
@@ -99,7 +125,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1197" />
     <option name="y" value="-23" />
     <option name="width" value="1346" />
@@ -146,6 +172,12 @@
               <item name="ejercicio_final_django" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonDjango" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonDjango" type="462c0819:PsiDirectoryNode" />
+              <item name="ejercicio_final_django" type="462c0819:PsiDirectoryNode" />
+              <item name="usermedia" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -156,6 +188,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ejercicio_final_django/ejercicio_final_django/settings.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Desarrollo05\Desktop\_\PythonDjango\ejercicio_final_django\usermedia" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -211,8 +248,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="1358" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -222,11 +258,11 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14860907" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2057101" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36019737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -282,13 +318,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejercicio_final_django/ejercicio_final_django/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ejercicio_final_django/main/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -307,13 +336,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-82">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejercicio_final_django/main/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -326,37 +348,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejercicio_final_django/main/admin.py">
+    <entry file="file://$PROJECT_DIR$/ejercicio_final_django/main/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/3531f343/22d17994-bbd1-4046-ba49-ca254ab6cf4e/main.auth_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ejercicio_final_django/main/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ejercicio_final_django/ejercicio_final_django/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1597">
-          <caret line="123" column="18" lean-forward="true" selection-start-line="123" selection-start-column="18" selection-end-line="123" selection-end-column="18" />
+        <state relative-caret-position="187">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio_final_django/main/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio_final_django/ejercicio_final_django/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="25" column="50" lean-forward="true" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding>
+            <element signature="e#646#678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio_final_django/main/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio_final_django/main/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ejercicio_final_django/main/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="51">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
