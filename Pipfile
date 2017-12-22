@@ -9,6 +9,10 @@ name = "pypi"
 
 django = "*"
 pylint = "*"
+pillow = "*"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
 
 
 [dev-packages]
